@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Pembeli</string>
+
+    <!--barang-->
+    <string name="nama_barang">Nama Barang</string>
+    <string name="deskripsi_barang">Deskripsi Barang</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="negara_asal">Negara Asal</string>
+    <string name="merk_barang">Merk Barang</string>
+    <string name="masa_garansi">Masa Garansi</string>
+    <string name="berat_barang">Berat Barang</string>
+    <string name="stok_barang">Stok Barang</string>
+    <string name="foto_barang">Foto Barang</string>
+    <string name="ubah">Ubah</string>
+    <string name="hapus">Hapus</string>
+    <string name="simpan">Simpan</string>
+    <string name="pesan">Pesan</string>
+    <string name="jumlah_beli">1</string>
+
+    <string name="detail_harga_barang">Harga Barang:</string>
+    <string name="detail_negara_asal">Negara Asal:</string>
+    <string name="detail_merk_barang">Merk Barang:</string>
+    <string name="detail_masa_garansi">Masa Garansi:</string>
+    <string name="detail_berat_barang">Berat Barang:</string>
+    <string name="detail_stok_barang">Stok Barang:</string>
+
+    <!--login-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="or">Or</string>
+    <!--signup-->
+    <string name="username_pembeli">Username</string>
+    <string name="password_pembeli">Password</string>
+    <string name="nama_pembeli">Nama</string>
+    <string name="no_telp_pembeli">No Telp</string>
+    <string name="alamat_pembeli">Alamat</string>
+    <!--mainmenu-->
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+
+    <!--button-->
+    <string name="wishlist">Tambah Ke Wishlist</string>
+    <string name="batal">Batalkan Pesanan</string>
+</resources>
